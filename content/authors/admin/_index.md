@@ -1,5 +1,5 @@
 ---
-avatar_filename: qdev_jonas-vinther_c.jpeg
+avatar_filename: assets/media/qdev_jonas-vinther_c.jpeg
 bio: My research interests include the intersection of Quantum Mechanics and
   Computer Science
 interests: []
